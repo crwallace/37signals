@@ -1,0 +1,326 @@
+*{
+	font-family: sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: #369;
+}
+
+h1{
+	font: 55px 'Crimson Text', serif;
+	line-height: 60px;
+	margin-bottom: 0;
+}
+
+h2{
+	font: 42px 'Crimson Text', serif;
+	line-height: 50px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.clear{
+	clear: both;
+}
+
+hr{
+	border: 0;
+	height: 20px;
+	width: 70px;
+	background: url(img/img-hr.png) no-repeat ;
+	margin: 0 auto;
+
+}
+
+blockquote{
+	color: #888;
+	font-style: italic;
+	font-size: 16px;
+}
+
+cite{
+	font-family: Verdana, sans-serif;
+	font-size: 12px;
+}
+
+#topnav{
+	margin: 18px 32px;
+	padding: 10px;
+	font-size: 12px;
+}
+#topnav nav ul li {
+	display: inline;
+}
+
+#topnav nav ul li span{
+	color: #999;
+	text-align: left;
+}
+
+#topnav nav li a {
+	float: right;
+	color: #369;
+	padding: 0 10px;
+}
+
+.container{
+	width: 820px;
+	text-align: center;
+	margin: 0 auto;
+}
+.container h6{
+	font: 22px 'Crimson Text', serif;
+	margin-bottom: 25px;
+	margin-top: 15px;
+}
+
+.container nav ul li{
+	list-style-type: none;
+}
+
+#section1 img{
+	margin-bottom: -27px;
+	margin-top: 10px;
+}
+
+.services{
+	border: 1px solid #e8e8e8;
+	border-radius: 5px;
+	width: 165px;
+	padding: 20px 10px 10px 10px;
+	margin-bottom: 40px;
+	background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#e8e8e8));
+}
+
+.services a{
+	color: #369;
+	font: bold 20px Arial;
+	text-decoration: underline;
+}
+
+.services h5{
+	color: #cc0000;
+	font: bold 15px Arial;
+	line-height: 2px;
+}
+
+.bcbtn{
+    float: left;
+    margin-left: 10%;
+}
+
+.hrbtn{
+	float: left;
+	margin-left: 2%;
+
+}
+
+.cfbtn{
+	float: left;
+	margin-left: 2%;
+}
+
+#faces{
+	margin-top: 20px;
+	float: left;
+	margin-right: -100px;
+	margin-left: -22px;
+}
+#faces a{
+	float: left;
+	color: #369;
+	font-size: 10px;
+}
+
+#pictures{
+	margin-top: 20px;
+	float: left;
+	margin-right: -100px;
+	margin-left: -22px;
+}
+
+#arrow{
+	margin-top: 105px;
+	float: left;
+	margin-left: 75px;
+	margin-right: -110px;
+}
+
+#explain{
+	text-align: left;
+	width: 60%;
+	margin-left: 13%
+}
+
+#explain p{
+	font: 18px "Crimson Text", serif;
+	color: #666;
+	margin-left: -25px;
+	margin-top: 0;
+}
+
+#stamp{
+	float: right;
+	margin-top: -210px;
+	margin-right: 25px;
+}
+
+.container footer img{
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.column_art{
+	width: 410px;
+	text-align: left;
+}
+
+.column_art ol{
+	margin-left: 50px;
+	margin-bottom: 40px;
+}
+
+.column_art ol li{
+	font-size: 3em; 
+	color: #ccc;
+}
+
+.column_art ol li h5{
+	font-size: 15px;
+	color: #cc0000;
+	display: inline-block; 
+	vertical-align: text-top; 
+	margin: 5px 0;
+}
+
+.column_art ol li p{
+	font-size: 13px;
+	color: #666;
+	display: block;
+	margin: -30px 0 15px 0;
+
+}
+
+#lfcol{
+	float: left;
+}
+
+#rtcol{
+	float: left;
+	display: inline;
+}
+
+#section4 header h2{
+	float: left;
+	font: 45px 'Crimson Text', serif;
+	line-height: 1em;
+}
+
+#section4 a{
+	margin-left: 700px;
+	margin-right: -235px;
+}
+
+#section4 header img{
+	float: right;
+
+}
+
+#crumple{
+	margin: -140px -125px 0 0;
+}
+
+#rwarrow{
+	margin: -70px -5px 0 0;
+}
+
+#book{
+	margin: -50px 20px 0 0;
+	float: left;
+}
+
+.services2{
+	width: 165px;
+	padding: 20px 10px 10px 10px;
+	margin-bottom: 20px;
+
+}
+
+.services2 a{
+	color: #369;
+	font: bold 20px Arial;
+	text-decoration: underline;
+}
+
+.services2 h5{
+	color: #cc0000;
+	font: bold 15px Arial;
+	line-height: 2px;
+}
+
+#section5 div{
+	margin-bottom: 20px;
+}
+#section5 div div header{
+	border-bottom: solid 1px #888;
+	color: #cc0000;
+	font: bold 20px Arial;
+	line-height: 2px;
+}
+
+#section5 div div header h5{
+	margin-bottom: 15px;
+}
+
+.links{
+	float: left;
+	width: 40%;
+	margin-top: 
+}
+
+#ltlink{
+	margin-left: 7%;
+}
+
+#rtlink{
+	margin-left: 3%;
+}
+
+#section5 div div div h6{
+	font-size: 20px;
+	font-weight: 600;
+	margin-bottom: -15px;
+	margin-top: 25px;
+}
+
+#section5 div div div p{
+	color: #666;
+	font-size: 15px;
+}
+
+#section6{
+	margin-top: 40px;
+	margin-bottom: 60px;
+}
+#section6 h5{
+	color: #cc0000;
+	font: bold 15px Arial;
+	line-height: 2px;
+}
+
+#section6 a{
+	display: block;
+	margin-bottom: 25px;
+	font-size: 12px;
+
+}
+
+footer p{
+	font-size: 10px;
+	text-align: center;
+}
+
+footer p a{
+	margin: 0 8px;
+}
